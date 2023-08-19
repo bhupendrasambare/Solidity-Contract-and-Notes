@@ -1,1 +1,1 @@
-# Blockchain Solidity Contact and Notes
+# Blockchain Solidity Contact with Notes
